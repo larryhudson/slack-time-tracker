@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: one
+  job: one
+  from: 2020-01-31 16:33:44
+  until: 2020-01-31 16:33:44
+
+two:
+  user: two
+  job: two
+  from: 2020-01-31 16:33:44
+  until: 2020-01-31 16:33:44
